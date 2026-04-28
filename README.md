@@ -1,2 +1,7 @@
-# demo-bp-odontologia-personalizada
-Demo web para BP ODONTOLOGIA PERSONALIZADA — diseñada por eterlab.
+# BP ODONTOLOGIA PERSONALIZADA
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
